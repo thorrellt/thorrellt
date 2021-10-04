@@ -1,5 +1,5 @@
 ### Oh, Hi! 👋 I didn't see you there.
-My name is Thorrell and I am a recent CS graduate who is transitionaing careers into software development. 
+My name is Thorrell and I am a recent CS graduate who is transitioning  careers into software development. 
 
 
 
@@ -10,5 +10,5 @@ My name is Thorrell and I am a recent CS graduate who is transitionaing careers 
 - 💬 Ask me about ... Anything, as long as the correct answer is optional
 - 📫 How to reach me: ... thorrellt@gmail.com 
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... Juneau, AK is the only state capital in the US with no accessable by :car:. You must take :boat: or :airplane:
+- ⚡ Fun fact: ... Juneau, AK is the only state capital in the US with not accessible by :car:. You must take :boat: or :airplane:
 - 🌈 The More You Know🌟
