@@ -3,10 +3,10 @@ My name is Thorrell and I am a recent CS graduate who is transitioning  careers 
 
 
 
-- 🔭 I’m currently working on ... Updating the Care Corner app
-- 🌱 I’m currently learning ... Kotlin -> Android Development
+- 🔭 I’m currently working on ... Building a personal website
+- 🌱 I’m currently learning ... HTML/CSS/JS -> Web Development
 - 👯 I’m looking to collaborate on ... TBD
-- 🤔 I’m looking for help with ... Android Development
+- 🤔 I’m looking for help with ... Web Development
 - 💬 Ask me about ... Anything, as long as the correct answer is optional
 - 📫 How to reach me: ... thorrellt@gmail.com 
 - 😄 Pronouns: ... he/him
