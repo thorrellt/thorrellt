@@ -2,11 +2,11 @@
 My name is Thorrell and I am a recent CS graduate who is transitioning careers in software/web development. 
 
 
-- 🔭 I’m currently working on ... Building a personal website
-- 🔨 I’m currently practicing ... HTML/CSS via [frontendmentor.io Challenges](https://github.com/thorrellt/front_end_mentor_solutions) 
-- 🌱 I’m currently learning ... Javascript via [exercism.org's JS Learning Track](https://github.com/thorrellt/exercism_solutions)
-- 👯 I’m looking to collaborate on ... TBD
-- 🤔 I’m looking for help with ... Web Development
+- 🔭 I’m currently working on ... Building a job board full stack project
+- 🔨 I’m currently practicing ... Full-stack development
+- 🌱 I’m currently learning ... The deeper functionalities and principles of node.js, express, and MongoDB
+- 👯 I’m looking to collaborate on ... Any M.E.R.N. stack projects where I can contribute
+- 🤔 I’m looking for help with ... Career growth within software development
 - 💬 Ask me about ... Anything, as long as the correct answer is optional
 - 📫 How to reach me: ... thorrellt@gmail.com 
 - 😄 Pronouns: ... he/him
