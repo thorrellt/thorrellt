@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thorrell</h1>
-<h3 align="center">A recent CS graduate who is transitioning careers to software/web development.</h3>
+<h1 align="center">Hi 👋🏿, I'm Thorrell</h1>
+<h3 align="center">A CS graduate who is transitioning careers to software/web development.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/64343445/208104740-608c9b91-312a-4d90-a2b2-5dfe2538f903.png">
 
